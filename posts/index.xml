@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - 观海听涛</title>
-        <link>https://gh-tt.github.io/posts/</link>
+        <link>https://www.ghtt.work/posts/</link>
         <description>所有文章 | 观海听涛</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 16 May 2020 14:29:36 &#43;0800</lastBuildDate><atom:link href="https://gh-tt.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 16 May 2020 14:29:36 &#43;0800</lastBuildDate><atom:link href="https://www.ghtt.work/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Two</title>
-    <link>https://gh-tt.github.io/posts/two/</link>
+    <link>https://www.ghtt.work/posts/two/</link>
     <pubDate>Sat, 16 May 2020 14:29:36 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://gh-tt.github.io/posts/two/</guid>
+    <guid>https://www.ghtt.work/posts/two/</guid>
     <description><![CDATA[LoveIt 主题 | Hugo English README | 简体中文说明 LoveIt 是一个简洁、优雅且高效的 Hugo 博客主题。 它的原型基于 LeaveIt 主题 和 KeepIt 主题。 由于三个主题外观的相似性，如果你对于它们的不同]]></description>
 </item><item>
     <title>First_post</title>
-    <link>https://gh-tt.github.io/posts/first_post/</link>
+    <link>https://www.ghtt.work/posts/first_post/</link>
     <pubDate>Fri, 15 May 2020 22:44:55 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://gh-tt.github.io/posts/first_post/</guid>
+    <guid>https://www.ghtt.work/posts/first_post/</guid>
     <description><![CDATA[<h1 id="主题文档---基本概念">主题文档 - 基本概念</h1>
 <p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
 </item></channel>
