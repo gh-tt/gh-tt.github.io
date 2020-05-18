@@ -3,20 +3,13 @@
         <title>观海听涛</title>
         <link>https://www.ghtt.work/</link>
         <description>个人技术博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 16 May 2020 14:10:57 &#43;0800</lastBuildDate><atom:link href="https://www.ghtt.work/" rel="self" type="application/rss+xml" /><item>
-    <title>Two</title>
-    <link>https://www.ghtt.work/posts/two/</link>
-    <pubDate>Sat, 16 May 2020 14:29:36 &#43;0800</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 11 Feb 2020 14:10:57 &#43;0800</lastBuildDate><atom:link href="https://www.ghtt.work/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇博客文章</title>
+    <link>https://www.ghtt.work/posts/first-post/</link>
+    <pubDate>Mon, 10 Feb 2020 10:11:46 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://www.ghtt.work/posts/two/</guid>
-    <description><![CDATA[LoveIt 主题 | Hugo English README | 简体中文说明 LoveIt 是一个简洁、优雅且高效的 Hugo 博客主题。 它的原型基于 LeaveIt 主题 和 KeepIt 主题。 由于三个主题外观的相似性，如果你对于它们的不同]]></description>
-</item><item>
-    <title>First_post</title>
-    <link>https://www.ghtt.work/posts/first_post/</link>
-    <pubDate>Fri, 15 May 2020 22:44:55 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://www.ghtt.work/posts/first_post/</guid>
-    <description><![CDATA[<h1 id="主题文档---基本概念">主题文档 - 基本概念</h1>
-<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+    <guid>https://www.ghtt.work/posts/first-post/</guid>
+    <description><![CDATA[<p>之前一直比较懒，没有想着写博客，最近感觉需要写一些东西来沉淀下自己，同时因为再学习golang
+的原因，可以同时把学习过程中的知识点记录下来</p>]]></description>
 </item></channel>
 </rss>

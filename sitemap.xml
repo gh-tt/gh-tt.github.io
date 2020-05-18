@@ -2,12 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://www.ghtt.work/categories/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/posts/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/tags/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/tags/test/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/categories/test/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/posts/two/</loc><lastmod>2020-05-16T14:29:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/about/</loc><lastmod>2020-05-16T14:10:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/</loc><lastmod>2020-05-16T14:10:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://www.ghtt.work/posts/first_post/</loc><lastmod>2020-05-15T22:44:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://www.ghtt.work/about/</loc><lastmod>2020-02-11T14:10:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.ghtt.work/</loc><lastmod>2020-02-11T14:10:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.ghtt.work/posts/</loc><lastmod>2020-02-10T10:11:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.ghtt.work/posts/first-post/</loc><lastmod>2020-02-10T10:11:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.ghtt.work/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.ghtt.work/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
